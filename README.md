@@ -1,1 +1,2 @@
-# GameInTheDatabase
+# synchronousBallMovement
+Ball moving synchronously
